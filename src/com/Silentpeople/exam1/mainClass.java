@@ -84,6 +84,7 @@ public class calculatorMain {
             System.out.println(result2);
             break; 
          default:
+        	 System.out.println();
             break;
          }
          System.out.println("yes(y) or no(n)");
